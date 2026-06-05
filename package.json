@@ -35,4 +35,13 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
+
+  "scripts": {
+  "dev": "tsx server.ts",
+  "build": "vite build",
+  "start": "tsx server.ts",
+  "preview": "vite preview",
+  "clean": "rm -rf dist",
+  "lint": "tsc --noEmit"
+  }
 }
