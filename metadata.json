@@ -1,0 +1,5 @@
+{
+  "name": "Digital Fatigue Twin",
+  "description": "A privacy-first web platform that detects and visualizes mental fatigue in real-time using edge-based analytics.",
+  "requestFramePermissions": []
+}
